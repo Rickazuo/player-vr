@@ -6,3 +6,11 @@
   margin: 1.5rem;
   background: url("../../../../public/images/screen.png");
 }
+
+@media (max-width: 600px) {
+  .screen {
+    width: 30rem;
+    height: 13.75rem;
+    overflow-y: hidden;
+  }
+}

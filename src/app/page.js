@@ -6,11 +6,12 @@ import Screen from './components/screen/screen.jsx'
 
 import circle from '../../public/images/ellipse.svg'
 import rectangle from '../../public/images/rectangle.svg'
-
+import { Inter } from 'next/font/google'
+const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
-    <main className={styles.main}>
+    <main className={`${styles.main} ${inter.className}`}>
       <div className={styles.player}>
         <NavBar />
         <div className={styles.lowPlayer}>
