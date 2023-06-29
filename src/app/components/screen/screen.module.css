@@ -7,10 +7,10 @@
   background: url("../../../../public/images/screen.png");
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1070px) {
   .screen {
-    width: 30rem;
-    height: 13.75rem;
+    width: auto;
+    height: auto;
     overflow-y: hidden;
   }
 }

@@ -54,3 +54,25 @@
   font-family: Inter;
   line-height: 1.5rem;
 }
+
+@media screen and (max-width: 1070px) {
+  .actions {
+    gap: 0.5rem;
+  }
+
+  .adressBar {
+    width: auto;
+    gap: 0.5rem;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .navegationBar {
+    gap: 0.3rem;
+    padding: 0.3rem;
+  }
+
+  .hovered {
+    width: 1rem;
+  }
+}

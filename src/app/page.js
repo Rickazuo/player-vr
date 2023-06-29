@@ -15,8 +15,8 @@ export default function Home() {
       <div className={styles.player}>
         <NavBar />
         <div className={styles.lowPlayer}>
-        <SideMenu />
-        <Screen />
+          <SideMenu />
+          <Screen />
         </div>
         <div className={styles.interaction}>
           <Image className={styles.circle} src={circle} alt='circle icon' height={8} width={8} />

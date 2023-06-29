@@ -37,9 +37,9 @@ O projeto _Player de VR_ foi realizado como parte do #25 desafio #BORACODAR da R
   Funcionalidades
 </h1>
 
-O desafio foi a criação de um Player de VR, o layout proposto está disponível em <a href="#-layout-figma">Layout</a>.
+O desafio foi a criação de um Player de VR com os seus respectivos ícones de utilização, utilizando o layout proposto está disponível em <a href="#-layout-figma">Layout</a>.
 
-_<h2 align="center" ><a href="https://multi-step-form-gilt-nine.vercel.app/" target="_blank">Visite o projeto online</a></h2>_
+_<h2 align="center" ><a href="https://player-vr.vercel.app/" target="_blank">Visite o projeto online</a></h2>_
 
 ## 🔖 Layout
 
